@@ -1,9 +1,0 @@
-Recently created Sales Dashboard, built using dummy sales data. It's a tool that provides valuable insights into sales performance and helps in making informed decisions.
-
-Key Features:
-Two Pages: Detailed insights spread across two pages.
-Three KPIs: Tracking transactions, total quantity sold, and total revenue.
-Donut Chart: Visualizing total revenue by channel, with interactive tooltips showcasing the top 3 salespersons based on revenue.
-Tooltips: Offering insights on % revenue vs. Budgets and product details.
-Sales Person Detail Page: Tabular format detailing salesperson performance, with slicers for supervisor and manager filtering.
-Ranking Feature: Select top or bottom revenue based on rank value and type.
